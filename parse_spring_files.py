@@ -22,7 +22,7 @@ df.to_csv(os.path.join(os.getcwd(), 'uframe_routes.csv'), index=False)
 
 ingest_dict = {}
 for row in df.itertuples():
-    ingest_dict[row.uframe_route] = driver
+    ingest_dict[row.uframe_route] = row.driver
 
 with open(os.path.join(os.getcwd(), 'uframe_routes.pkl'), 'wb') as f:
     pickle.dump(ingest_dict, f)
