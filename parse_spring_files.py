@@ -4,6 +4,7 @@ import os
 import re
 from bs4 import BeautifulSoup
 import pandas as pd
+import pickle
 
 data = []
 for file in glob.glob('/Users/michaesm/Documents/dev/repos/oceanobservatories/dataset-spring/res/spring/*.xml'):
@@ -18,3 +19,10 @@ for file in glob.glob('/Users/michaesm/Documents/dev/repos/oceanobservatories/da
 
 df = pd.DataFrame(data, columns=['spring', 'uframe_route', 'driver'])
 df.to_csv(os.path.join(os.getcwd(), 'uframe_routes.csv'), index=False)
+
+ingest_dict = {}
+for row in df.itertuples():
+    ingest_dict[row.uframe_route] = driver
+
+with open(os.path.join(os.getcwd(), 'uframe_routes.pkl'), 'wb') as f:
+    pickle.dump(ingest_dict, f)
