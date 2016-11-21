@@ -32,6 +32,7 @@ ooi-ctdbp-cdef-dcl-decode.xml,Ingest.ctdbp-cdef-dcl_telemetered,mi.dataset.drive
 ooi-ctdbp-cdef-decode.xml,Ingest.ctdbp-cdef_recovered,mi.dataset.driver.ctdbp_cdef.ctdbp_cdef_recovered_driver
 ooi-ctdbp-p-dcl-decode.xml,Ingest.ctdbp-p-dcl_recovered,mi.dataset.driver.ctdbp_p.dcl.ctdbp_p_dcl_recovered_driver
 ooi-ctdbp-p-dcl-decode.xml,Ingest.ctdbp-p-dcl_telemetered,mi.dataset.driver.ctdbp_p.dcl.ctdbp_p_dcl_telemetered_driver
+ooi-ctdbp-p-decode.xml,Ingest.ctdbp-p_recovered,mi.dataset.driver.ctdbp_p.ctdbp_p_recovered_driver
 ooi-ctdgv-m-glider-decode.xml,Ingest.ctdgv-m-glider_recovered,mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_recovered_driver
 ooi-ctdgv-m-glider-decode.xml,Ingest.ctdgv-m-glider_telemetered,mi.dataset.driver.moas.gl.ctdgv.ctdgv_m_glider_telemetered_driver
 ooi-ctdmo-ghqr-decode.xml,Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_ct_recovered_driver
@@ -57,6 +58,7 @@ ooi-dosta-abcdjm-ctdbp-dcl-decode.xml,Ingest.dosta-abcdjm-ctdbp-dcl_telemetered,
 ooi-dosta-abcdjm-ctdbp-decode.xml,Ingest.dosta-abcdjm-ctdbp_recovered,mi.dataset.driver.dosta_abcdjm.ctdbp.dosta_abcdjm_ctdbp_recovered_driver
 ooi-dosta-abcdjm-ctdbp-p-dcl-decode.xml,Ingest.dosta-abcdjm-ctdbp-p-dcl_recovered,mi.dataset.driver.dosta_abcdjm.ctdbp_p.dcl.dosta_abcdjm_ctdbp_p_dcl_recovered_driver
 ooi-dosta-abcdjm-ctdbp-p-dcl-decode.xml,Ingest.dosta-abcdjm-ctdbp-p-dcl_telemetered,mi.dataset.driver.dosta_abcdjm.ctdbp_p.dcl.dosta_abcdjm_ctdbp_p_dcl_telemetered_driver
+ooi-dosta-abcdjm-ctdbp-p-decode.xml,Ingest.dosta-abcdjm-ctdbp-p_recovered,mi.dataset.driver.dosta_abcdjm.ctdbp_p.dosta_abcdjm_ctdbp_p_recovered_driver
 ooi-dosta-abcdjm-dcl-decode.xml,Ingest.dosta-abcdjm-dcl_recovered,mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_recovered_driver
 ooi-dosta-abcdjm-dcl-decode.xml,Ingest.dosta-abcdjm-dcl_telemetered,mi.dataset.driver.dosta_abcdjm.dcl.dosta_abcdjm_dcl_telemetered_driver
 ooi-dosta-abcdjm-glider-decode.xml,Ingest.dosta-abcdjm-glider_recovered,mi.dataset.driver.moas.gl.dosta.dosta_abcdjm_glider_recovered_driver
@@ -78,6 +80,7 @@ ooi-flobn-m-subcon-decode.xml,Ingest.flobn-m-subcon_recovered,mi.dataset.driver.
 ooi-flobn-m-subcon-temperature-decode.xml,Ingest.flobn-m-subcon-temperature_recovered,mi.dataset.driver.flobn.flobn_m_subcon_temperature_recovered_driver
 ooi-flord-g-ctdbp-p-dcl-decode.xml,Ingest.flord-g-ctdbp-p-dcl_recovered,mi.dataset.driver.flord_g.ctdbp_p.dcl.flord_g_ctdbp_p_dcl_recovered_driver
 ooi-flord-g-ctdbp-p-dcl-decode.xml,Ingest.flord-g-ctdbp-p-dcl_telemetered,mi.dataset.driver.flord_g.ctdbp_p.dcl.flord_g_ctdbp_p_dcl_telemetered_driver
+ooi-flord-g-ctdbp-p-decode.xml,Ingest.flord-g-ctdbp-p_recovered,mi.dataset.driver.flord_g.ctdbp_p.flord_g_ctdbp_p_recovered_driver
 ooi-flord-l-wfp-decode.xml,Ingest.flord-l-wfp_recovered,mi.dataset.driver.flord_l_wfp.flord_l_wfp_recovered_driver
 ooi-flord-l-wfp-sio-decode.xml,Ingest.flord-l-wfp-sio_telemetered,mi.dataset.driver.flord_l_wfp.sio.flord_l_wfp_sio_telemetered_driver
 ooi-flord-m-glider-decode.xml,Ingest.flord-m-glider_recovered,mi.dataset.driver.moas.gl.flord_m.flord_m_glider_recovered_driver
