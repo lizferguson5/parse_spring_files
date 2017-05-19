@@ -18,6 +18,7 @@ ooi-adcpt-m-log9-decode.xml,Ingest.adcpt-m-log9_recovered,mi.dataset.driver.adcp
 ooi-adcpt-m-wvs-decode.xml,Ingest.adcpt-m-wvs_recovered,mi.dataset.driver.adcpt_m.wvs.adcpt_m_wvs_recovered_driver
 ooi-auv-eng-auv-decode.xml,Ingest.auv-eng-auv_recovered,mi.dataset.driver.auv_eng.auv.auv_eng_auv_recovered_driver
 ooi-auv-eng-auv-decode.xml,Ingest.auv-eng-auv_telemetered,mi.dataset.driver.auv_eng.auv.auv_eng_auv_telemetered_driver
+ooi-camds-abc-dcl-decode.xml,Ingest.camds-abc-dcl,mi.dataset.driver.camds.camds_abc_driver
 ooi-cg-cpm-eng-cpm-decode.xml,Ingest.cg-cpm-eng-cpm_recovered,mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_recovered_driver
 ooi-cg-cpm-eng-cpm-decode.xml,Ingest.cg-cpm-eng-cpm_telemetered,mi.dataset.driver.cg_cpm_eng.cpm.cg_cpm_eng_cpm_telemetered_driver
 ooi-cg-dcl-eng-dcl-decode.xml,Ingest.cg-dcl-eng-dcl_recovered,mi.dataset.driver.cg_dcl_eng.dcl.cg_dcl_eng_dcl_recovered_driver
@@ -39,6 +40,7 @@ ooi-ctdmo-ghqr-decode.xml,Ingest.ctdmo-ghqr_recovered,mi.dataset.driver.ctdmo_gh
 ooi-ctdmo-ghqr-imodem-decode.xml,Ingest.ctdmo-ghqr-imodem_recovered,mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_recovered_driver
 ooi-ctdmo-ghqr-imodem-decode.xml,Ingest.ctdmo-ghqr-imodem_telemetered,mi.dataset.driver.ctdmo_ghqr.imodem.ctdmo_ghqr_imodem_telemetered_driver
 ooi-ctdmo-ghqr-sio-decode.xml,Ingest.ctdmo-ghqr-sio_recovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_co_recovered_driver
+ooi-ctdmo-ghqr-sio-decode.xml,Ingest.ctdmo-ghqr-sio_ctRecovered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_ct_recovered_driver
 ooi-ctdmo-ghqr-sio-decode.xml,Ingest.ctdmo-ghqr-sio_telemetered,mi.dataset.driver.ctdmo_ghqr.sio.ctdmo_ghqr_sio_telemetered_driver
 ooi-ctdpf-ckl-mmp-cds-decode.xml,Ingest.ctdpf-ckl-mmp-cds_recovered,mi.dataset.driver.ctdpf_ckl.mmp_cds.ctdpf_ckl_mmp_cds_recovered_driver
 ooi-ctdpf-ckl-wfp-decode.xml,Ingest.ctdpf-ckl-wfp_recovered,mi.dataset.driver.ctdpf_ckl.wfp.ctdpf_ckl_wfp_recovered_driver
@@ -97,6 +99,8 @@ ooi-flort-kn-stc-imodem-decode.xml,Ingest.flort-kn-stc-imodem_recovered,mi.datas
 ooi-flort-kn-stc-imodem-decode.xml,Ingest.flort-kn-stc-imodem_telemetered,mi.dataset.driver.flort_kn.stc_imodem.flort_kn__stc_imodem_telemetered_driver
 ooi-flort-m-glider-decode.xml,Ingest.flort-m-glider_recovered,mi.dataset.driver.moas.gl.flort_m.flort_m_glider_recovered_driver
 ooi-flort-m-glider-decode.xml,Ingest.flort-m-glider_telemetered,mi.dataset.driver.moas.gl.flort_m.flort_m_glider_telemetered_driver
+ooi-flort-o-glider-decode.xml,Ingest.flort-o-glider_recovered,mi.dataset.driver.moas.gl.flort_o.flort_o_glider_recovered_driver
+ooi-flort-o-glider-decode.xml,Ingest.flort-o-glider_telemetered,mi.dataset.driver.moas.gl.flort_o.flort_o_glider_telemetered_driver
 ooi-fuelcell-eng-dcl-decode.xml,Ingest.fuelcell-eng-dcl_telemetered,mi.dataset.driver.fuelcell_eng.dcl.fuelcell_eng_dcl_telemetered_driver
 ooi-fuelcell-eng-dcl-decode.xml,Ingest.fuelcell-eng-dcl_recovered,mi.dataset.driver.fuelcell_eng.dcl.fuelcell_eng_dcl_recovered_driver
 ooi-glider-eng-glider-decode.xml,Ingest.glider-eng-glider_recovered,mi.dataset.driver.moas.gl.engineering.glider_eng_glider_recovered_driver
@@ -183,3 +187,4 @@ ooi-wfp-eng-stc-imodem-decode.xml,Ingest.wfp-eng-stc-imodem_telemetered,mi.datas
 ooi-wfp-eng-wfp-sio-mule-decode.xml,Ingest.wfp-eng-wfp-sio-mule_telemetered,mi.dataset.driver.WFP_ENG.wfp_sio.wfp_eng_wfp_sio_telemetered_driver
 ooi-winch-cspp-decode.xml,Ingest.winch-cspp_telemetered,mi.dataset.driver.winch_cspp.winch_cspp_driver
 ooi-zplsc-c-dcl-decode.xml,Ingest.zplsc-c-dcl_telemetered,mi.dataset.driver.zplsc_c.dcl.zplsc_c_dcl_telemetered_driver
+ooi-zplsc-c-decode.xml,Ingest.zplsc-c_recovered,mi.dataset.driver.zplsc_c.zplsc_c_recovered_driver
